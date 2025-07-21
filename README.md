@@ -9,7 +9,7 @@
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 
 1. [What is React?](#1-what-is-react)
 2. [Why Use React?](#2-why-use-react)
