@@ -213,14 +213,12 @@ my-first-app/
 ├── package.json     --> Project config & dependencies
 ```
 
----
 
 ## 11. Conclusion
 
 React helps you build **modular, scalable, and fast** UIs with ease.
 It may seem tricky at first, but once you understand **components, props, and state**, the rest is just practice!
 
----
 
 ## Contact Information
 
@@ -228,7 +226,6 @@ It may seem tricky at first, but once you understand **components, props, and st
 | --------- | ----------------------------------------------------------- |
 | Anuj Jain | [anuj.jain@mygurukulam.co](mailto:anuj.jain@mygurukulam.co) |
 
----
 
 
 ##  Bonus Resources
@@ -237,5 +234,4 @@ It may seem tricky at first, but once you understand **components, props, and st
 * JSX Docs: [https://reactjs.org/docs/introducing-jsx.html](https://reactjs.org/docs/introducing-jsx.html)
 * Create React App Guide: [https://create-react-app.dev](https://create-react-app.dev)
 
----
 
