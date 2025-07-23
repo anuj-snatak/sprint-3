@@ -213,13 +213,13 @@ my-first-app/
 ├── package.json     --> Project config & dependencies
 ```
 
-
+---
 ## 11. Conclusion
 
 React helps you build **modular, scalable, and fast** UIs with ease.
 It may seem tricky at first, but once you understand **components, props, and state**, the rest is just practice!
 
-
+---
 ## Contact Information
 
 | Name      | Email Address                                               |
